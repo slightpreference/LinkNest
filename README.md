@@ -8,7 +8,6 @@ LinkNest is a lightweight and user-friendly Chrome extension that helps you save
 Perfect for students, researchers, or anyone who wants to keep useful websites organized and accessible in one place.
 
 # Screenshots
-
-![screenshot] (Capture.PNG)
-![screenshot] (Capture1.PNG)
-![screenshot] (Capture2.PNG)
+![homepage](images/Capture.PNG)
+![homepage](images/Capture1.PNG)
+![homepage](images/Capture2.PNG)
