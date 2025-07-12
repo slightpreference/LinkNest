@@ -6,3 +6,9 @@ LinkNest is a lightweight and user-friendly Chrome extension that helps you save
 + Delete All Links – Clean up your list anytime by removing all saved links with a single click.
 
 Perfect for students, researchers, or anyone who wants to keep useful websites organized and accessible in one place.
+
+# Screenshots
+
+![screenshot] (Capture.PNG)
+![screenshot] (Capture1.PNG)
+![screenshot] (Capture2.PNG)
